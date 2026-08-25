@@ -54,6 +54,12 @@ Run:
 python firefox_decrypt.py
 ```
 
+or
+
+```
+pixi exec --spec https://github.com/unode/firefox_decrypt -- python firefox_decrypt.py
+```
+
 The tool will present a numbered list of profiles. Enter the relevant number. 
 
 Then, a prompt to enter the *master password* for the profile: 
