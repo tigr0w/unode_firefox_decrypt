@@ -48,16 +48,23 @@ If you are trying to use `firefox_decrypt` on Linux to access a Firefox 144+ pro
 
 #### Usage
 
-Run:
+Start by cloning a specific version of this project:
+
+```
+git clone https://github.com/unode/firefox_decrypt.git
+cd firefox_decrypt
+```
+
+and then run:
 
 ```
 python firefox_decrypt.py
 ```
 
-or
+or if you have [`pixi`](https://pixi.prefix.dev) installed:
 
 ```
-pixi exec --spec https://github.com/unode/firefox_decrypt -- python firefox_decrypt.py
+pixi run python firefox_decrypt.py
 ```
 
 The tool will present a numbered list of profiles. Enter the relevant number. 
