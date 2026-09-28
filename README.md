@@ -2,6 +2,7 @@
 
 ![GitHub Actions status](https://github.com/unode/firefox_decrypt/actions/workflows/main.yml/badge.svg)
 [![Gitmoji badge](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://gitmoji.dev)
+[![No AI Badge](https://www.aihonestybadge.com/badges/no-ai.svg)](https://www.aihonestybadge.com)
 
 As of 1.0.0 Python 3.9+ is required. Python 2 is no longer supported.
 If you encounter a problem, try the latest [release](https://github.com/unode/firefox_decrypt/releases) or check open issues for ongoing work.
